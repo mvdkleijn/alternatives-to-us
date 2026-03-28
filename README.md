@@ -45,6 +45,7 @@ This list is a **community-driven effort** and we encourage:
 - [Email Services](#email-services)
 - [Search Engines](#search-engines)
 - [Cloud Storage](#cloud-storage)
+- [Software Version Management](#software-versionmanagement)
 - [Messaging Apps](#messaging-apps)
 - [Social Media](#social-media)
 - [Antivirus Programs](#antivirus-programs)
@@ -82,6 +83,11 @@ This list is a **community-driven effort** and we encourage:
 - **Tresorit** 🇨🇭: End-to-end encrypted. [Website](https://tresorit.com)
 - **Nextcloud** 🇩🇪: Self-hosted, private cloud solution. [Website](https://nextcloud.com)
 - **Sync.com** 🇨🇦: Privacy-focused. [Website](https://sync.com)
+
+## Software Version Management
+- **OpenCommit** 🇳🇱: SAAS - Free Github alternative for open source projects. Run by non-profit foundation. [Website](https://opencommit.eu)
+- **Codeberg** 🇩🇪: SAAS - Free Github alternative for open source projects. Run by non-profit society. [Website](https://codeberg.org)
+- **Forgejo** 🇪🇺: self-hosted software forge a la Github. [Website](https://forgejo.org)
 
 ## Messaging Apps
 - **Threema** 🇨🇭: Secure and privacy-friendly. [Website](https://threema.ch)
